@@ -1,7 +1,7 @@
 ---
 title: c#_Delegate
 date: 2021-11-08 15:48:24
-tags:Csharp
+tags: Csharp
 ---
 
 # 委托（Delegate）
